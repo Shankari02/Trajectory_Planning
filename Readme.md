@@ -1,4 +1,4 @@
-# Trajectory Planning for Robotic Manipulators
+# Trajectory Planning for Robot Manipulators
 
 #### Introduction 
 
