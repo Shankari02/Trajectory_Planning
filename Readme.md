@@ -38,9 +38,12 @@ We defined the start and end points for the movement of robotic manipulator.Base
 ![Methodology](/assets/Methodology.png)
 
 ## Results
-![Joint space Tracjectory](/assets/Joint_space_Trajctory.jpeg)
-![Task space Tracjectory ](/assets/Task_space_Trajctory.jpeg)
+![Joint space Trajectory](/assets/Joint_space_Trajectory.jpeg)
+
+![Task space Trajectory ](/assets/Task_space_Trajectory.jpeg)
+
 ![Comparison of both the Trajectories](/assets/Task_vs_Joint.jpeg)
+
 ![Joint reference vs Time for both the trajectories](/assets/Joint_position_vs_Time.png)
 ## **Future Work**
 
