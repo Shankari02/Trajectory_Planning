@@ -38,28 +38,37 @@ We defined the start and end points for the movement of robotic manipulator.Base
 ![Methodology](/assets/Methodology.png)
 
 ## Results
-![Joint space Trajectory](/assets/Joint_space_Trajectory.jpeg)
+- Joint Space Trajectory
 
-![Task space Trajectory ](/assets/Task_space_Trajectory.jpeg)
+![](/assets/Joint_space_Trajectory.jpeg)
 
-![Comparison of both the Trajectories](/assets/Task_vs_Joint.jpeg)
+- Task space Trajectory
 
-![Joint reference vs Time for both the trajectories](/assets/Joint_position_vs_Time.png)
+![](/assets/Task_space_Trajectory.jpeg)
+
+- Comparison of both the Trajectories
+
+![](/assets/Task_vs_Joint.jpeg)
+
+- Joint Reference vs Time graphs for both the trajectories
+
+![](/assets/Joint_Position_vs_Time.png)
+
 ## **Future Work**
 
 We plan to perform trajectory planning for higher degree of freedom manipulators.Implement the same in ROS and work on integrating controllers like PID and MPC.
 
 
 ## Contributors
--- [Shankari Anandakrishnan](https://github.com/Shankari02)
+-- [Shankari A](https://github.com/Shankari02)
 
 -- [Atharva Atre](https://github.com/AtharvaAtre)
 
 ## Acknowledgements
- A Special thanks to our Mentor
+ Special thanks to our Supervisor
  
 -- [Dr. Sammyak Mate](https://www.linkedin.com/in/dr-sammyak-mate-a7731543)
-    Affiliation:Electrical Engineering Department,VJTI,Mumbai
+    Affiliation: Electrical Engineering Department,VJTI,Mumbai
 
 
 ## Resources
